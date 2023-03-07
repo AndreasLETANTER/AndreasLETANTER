@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andréas</h1>
-<h3 align="center">A passionate dev student who can't stop developping projects.</h3>
+<h3 align="center">A passionate mouse who can't stop eating cheese.</h3>
 
 <p align="center">
   <img src="https://2.bp.blogspot.com/-wL4G9HIrnzM/UVVNdTeEzgI/AAAAAAAALJg/ARgYf0vBepw/s1600/southpark-clapping.gif" alt="animated" />
@@ -11,7 +11,7 @@
  
 <h4>
 
-- 🔭 I’m currently working on **personnal projects**
+- 🔭 I’m currently struggling to validate my second year at Epitech
 
 - 🌱 I’m learning **c++ and swift**
 
