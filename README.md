@@ -11,9 +11,9 @@
  
 <h4>
 
-- 🔭 I’m currently working on **personnal projects**
+- 🔭 I’m currently working on Wavy (End Graduation Project) and Brainy (Personal Project)
 
-- 🌱 I’m learning **c++ and swift**
+- 🌱 I’m learning React.js 
 
 - 👨‍💻 All of my public projects are available on my github page
 
@@ -21,15 +21,13 @@
 
 - 📫 Reach me at **letanter.andreas@orange.fr**
 
-- ⚡ Fun fact **I love coding, strange for a dev.**  
-
  </h4>
  
  <h1></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/andréas le tanter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andréas le tanter" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/andréasletanter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andréas le tanter" height="30" width="40" /></a>
 </p>
 
  <h1></h1>
